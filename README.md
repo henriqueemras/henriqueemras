@@ -1,14 +1,11 @@
-# Henrique Mrás
+### Hi there, I'm Henrique Mrás 👋
 
-## Olá pessoal 👋
-Sou apaixonado por desenvolver tecnologia seja ela na web ou de hardware
-Atualmente FullStack Developer (Querendo ser apenas um back-end :satellite: )
+- 🔭 I’m currently working on Itaipu Logística
+- 🌱 I’m currently learning about AWS
+- 🤔 I’m looking for help with AWS
+- 💬 Ask me about Node.js.
+- 📫 How to reach me: [Instagram - @h.mras](https://www.instagram.com/h.mras/) | [LinkedIn](https://www.linkedin.com/in/henriquemras/)
+- 😄 Pronouns: He/His
 
- Estou trabalhando na **Itaípu Logistica**
- <br/> :loudspeaker: &nbsp; Buscando colaborar com projetos em Back-end usando Nodejs
- <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js & Flutter
- <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games, seriados no Netflix e ja fabriquei um drone do zero :fireworks:
-<br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-HenriqueMrás-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henriquemras/)](https://www.linkedin.com/in/henriquemras/) 
-| 
-[![Gmail Badge](https://img.shields.io/badge/-henriqueemras@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:henriqueemras@gmail.com)](mailto:henriqueemras@gmail.com)
+![henriqueemras's GitHub stats](https://github-readme-stats.vercel.app/api?username=henriqueemras&theme=cobalt&&show_icons=true)
 
