@@ -1,9 +1,9 @@
 ### Hi there, I'm Henrique Mrás 👋
 
-- 🔭 I’m currently working on Itaipu Logística
-- 🌱 I’m currently learning about Docker
-- 🤔 I’m looking for help with Docker
-- 💬 Ask me about Node.js.
+- 🔭 I’m currently working on Fueltech Brasil
+- 🌱 I’m currently learning about Project Yocto and MQL5
+- 🤔 I’m looking for help with Linux embedded
+- 💬 Ask me about C
 - 📫 How to reach me: [Instagram - @h.mras](https://www.instagram.com/h.mras/) | [LinkedIn](https://www.linkedin.com/in/henriquemras/)
 - 😄 Pronouns: He/His
 
